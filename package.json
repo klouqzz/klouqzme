@@ -1,0 +1,43 @@
+{
+  "name": "klouqz.me",
+  "version": "2.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tippyjs/react": "^4.2.6",
+    "compression-webpack-plugin": "^9.2.0",
+    "cors": "^2.8.5",
+    "croxydb": "^0.0.7",
+    "daisyui": "^2.49.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "framer-motion": "^6.2.9",
+    "lodash-webpack-plugin": "^0.11.6",
+    "multer": "^1.4.5-lts.1",
+    "next": "12.1.0",
+    "nprogress": "^0.2.0",
+    "prop-types": "^15.8.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-router-dom": "^6.4.5",
+    "react-use-lanyard": "^0.2.0",
+    "swr": "^1.3.0",
+    "tippy.js": "^6.3.7",
+    "typewriter-effect": "^2.19.0",
+    "webpack": "^5.72.0"
+  },
+  "devDependencies": {
+    "@headlessui/react": "^1.5.0",
+    "autoprefixer": "^10.4.2",
+    "eslint": "8.10.0",
+    "eslint-config-next": "12.1.0",
+    "postcss": "^8.4.8",
+    "tailwind-scrollbar": "^2.0.1",
+    "tailwindcss": "^3.0.23"
+  }
+}
